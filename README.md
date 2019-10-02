@@ -1,3 +1,1 @@
 # kencamacho.github.io
-
-Hello
